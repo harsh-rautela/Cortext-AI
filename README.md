@@ -156,4 +156,4 @@ GitHub: https://github.com/harsh-rautela
 
 Project: https://github.com/harsh-rautela/CortexAI-v2
 
-Built with ❤️ using R
+Built with ❤️ 
